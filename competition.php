@@ -96,20 +96,8 @@
 								Hadiah
 								<table>
 									<tr>
-										<td>Juara 1</td>
-										<td>: Rp 2.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 2</td>
-										<td>: Rp 1.500.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 3</td>
-										<td>: Rp 750.000,-</td>
-									</tr>
-									<tr>
-										<td>Top Scorer</td>
-										<td>: Rp 300.000,-</td>
+										<td>Total </td>
+										<td>: Rp 4.550.000,-</td>
 									</tr>
 								</table>
 								<br>
@@ -170,7 +158,7 @@
 									</tr>
 									<tr>
 										<td>TM</td>
-										<td>: 16 Februari</td>
+										<td>: 14 Februari</td>
 									</tr>
 								</table>
 								<br>
@@ -200,20 +188,8 @@
 								Hadiah
 								<table>
 									<tr>
-										<td>Juara 1</td>
-										<td>: Rp 1.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 2</td>
-										<td>: Rp 750.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 3</td>
-										<td>: Rp 500.000,-</td>
-									</tr>
-									<tr>
-										<td>FAV</td>
-										<td>: Rp 300.000,-</td>
+										<td>Total </td>
+										<td>: Rp 2.550.000,-</td>
 									</tr>
 								</table>
 								<br>
@@ -274,7 +250,7 @@
 									</tr>
 									<tr>
 										<td>TM</td>
-										<td>: 15 Februari</td>
+										<td>: 14 Februari</td>
 									</tr>
 								</table>
 								<br>
@@ -294,20 +270,8 @@
 								Hadiah
 								<table>
 									<tr>
-										<td>Juara 1</td>
-										<td>: Rp 2.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 2</td>
-										<td>: Rp 1.500.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 3</td>
-										<td>: Rp 1.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Best Costume</td>
-										<td>: Rp 500.000,-</td>
+										<td>Total </td>
+										<td>: Rp 5.000.000,-</td>
 									</tr>
 								</table>
 								<br>
@@ -386,20 +350,8 @@
 								Hadiah
 								<table>
 									<tr>
-										<td>Juara 1</td>
-										<td>: Rp 3.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 2</td>
-										<td>: Rp 2.500.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 3</td>
-										<td>: Rp 1.000.000,-</td>
-									</tr>
-									<tr>
-										<td>MVP</td>
-										<td>: Rp 300.000,-</td>
+										<td>Total </td>
+										<td>: Rp 6.800.000,-</td>
 									</tr>
 								</table>
 								<br>
@@ -458,6 +410,10 @@
 										<td>Lomba</td>
 										<td>: 19 Februari - 2 Maret</td>
 									</tr>
+									<tr>
+										<td>TM</td>
+										<td>: 14 Februari</td>
+									</tr>
 								</table>
 								<br>
 								<table>
@@ -474,20 +430,8 @@
 								Hadiah
 								<table>
 									<tr>
-										<td>Juara 1</td>
-										<td>: Rp 1.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 2</td>
-										<td>: Rp 750.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 3</td>
-										<td>: Rp 500.000,-</td>
-									</tr>
-									<tr>
-										<td>FAV</td>
-										<td>: Rp 300.000,-</td>
+										<td>Total </td>
+										<td>: Rp 2.550.000,-</td>
 									</tr>
 								</table>
 								<br>
@@ -546,6 +490,10 @@
 										<td>Lomba</td>
 										<td>: 19 Februari - 3 Maret</td>
 									</tr>
+									<tr>
+										<td>TM</td>
+										<td>: 14 Februari</td>
+									</tr>
 								</table>
 								<br>
 								<table>
@@ -562,32 +510,16 @@
 								Hadiah (Mahasiswa)
 								<table>
 									<tr>
-										<td>Juara 1</td>
-										<td>: Rp 1.500.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 2</td>
-										<td>: Rp 1.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 3</td>
-										<td>: Rp 750.000,-</td>
+										<td>Total </td>
+										<td>: Rp 3.250.000,-</td>
 									</tr>
 								</table>
 								<br>
 								Hadiah (SMA)
 								<table>
 									<tr>
-										<td>Juara 1</td>
-										<td>: Rp 1.500.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 2</td>
-										<td>: Rp 1.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 3</td>
-										<td>: Rp 750.000,-</td>
+										<td>Total </td>
+										<td>: Rp 3.250.000,-</td>
 									</tr>
 								</table>
 								<br>
@@ -666,20 +598,8 @@
 								Hadiah
 								<table>
 									<tr>
-										<td>Juara 1</td>
-										<td>: Rp 1.000.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 2</td>
-										<td>: Rp 750.000,-</td>
-									</tr>
-									<tr>
-										<td>Juara 3</td>
-										<td>: Rp 500.000,-</td>
-									</tr>
-									<tr>
-										<td>FAV</td>
-										<td>: Rp 300.000,-</td>
+										<td>Total </td>
+										<td>: Rp 2.550.000,-</td>
 									</tr>
 								</table>
 								<br>

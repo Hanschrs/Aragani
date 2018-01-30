@@ -6,7 +6,14 @@
 		<h1 class="orange text-center">Hubungi Kami</h1>
 	</div>
 	<div class="col-md-7">
-		<form class="form" role="form" autocomplete="off" id="formLogin" action="proses_tanya.php" method="POST">
+		<h1>
+			Line@ official account :
+			<br>
+		 	<a href="https://line.me/R/ti/p/%40aragani" class="url-hover-no-show"><strong class="orange">@aragani</strong></a>
+		 </h1>
+
+		<!-- lol. f this. gajadi dipake :v -->
+		<!-- <form class="form" role="form" autocomplete="off" id="formLogin" action="proses_tanya.php" method="POST">
 			<div class="form-group">
 				<input type="text" class="form-control form-control-lg" placeholder="Nama*" name="nama">
 			</div>
@@ -17,10 +24,10 @@
 				<textarea type="text" class="form-control form-control-lg" rows="7" placeholder="Pesan*" name="pesan"></textarea>
 			</div>
 			<div class="form-group text-center">
-				<!-- <button class="btn btn-lg btn-warning">Submit</button> -->
 			</div>
-		</form>
+		</form> -->
 	</div>
+	<div class="pushdown-1"></div>
 </section>
 
 <?php require("htmlfooter.php") ?>

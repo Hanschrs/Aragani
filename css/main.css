@@ -6,14 +6,25 @@
 /* brown 	rgba(204, 118, 85, 1) 	#cc7655 */
 
 /* fonts */
-@font-face {
-	font-family: 'din';
+/* @font-face {
+	font-family: "din";
 	src: url('fonts/Din.otf');
 }
 
 @font-face {
-	font-family: 'igrasans';
+	font-family: "igrasans";
 	src: url('fonts/IgraSans.otf');
+} */
+
+/* ttf coz otf are problematic. */
+@font-face {
+	font-family: "din";
+	src: url('fonts/Din.ttf');
+}
+
+@font-face {
+	font-family: "igrasans";
+	src: url('fonts/IgraSans.ttf');
 }
 
 /* colors */
@@ -87,6 +98,10 @@ body {
 	color: #3e3f3d;
 }
 
+.logo-about {
+	margin: 1.5em auto;
+}
+
 .contact {
 	padding: 1em 1em;
 }
@@ -98,6 +113,10 @@ body {
 .form-control:focus {
 	border-color: #86aba1;
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(134, 171, 161, 0.6);
+}
+
+strong {
+	font-size: 1.5em;
 }
 
 /* contest */
@@ -201,6 +220,10 @@ body {
 	padding-left: 1.5em;
 }
 
+.url-hover-no-show:hover {
+	text-decoration: none;
+}
+
 /* media query laptop screen */
 @media only screen and (min-width : 768px){
 	/* navbar */
@@ -237,6 +260,11 @@ body {
 
 	.penjelasan {
 		font-size: 1em;
+	}
+
+	.logo-about {
+		margin: 1.5em;
+		height: auto;
 	}
 
 	.contact {
@@ -284,6 +312,10 @@ body {
 
 	.pushdown {
 		margin: 0;
+	}
+
+	.pushdown-1{
+		height: 400px;
 	}
 }		
 

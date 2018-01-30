@@ -106,7 +106,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="dlc/futsal.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -198,7 +198,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="dlc/foto.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -280,7 +280,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="dlc/dance.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -360,7 +360,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="dlc/basket.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -440,7 +440,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="dlc/jurnal.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -528,7 +528,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="d;c/band.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -608,7 +608,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="dlc/design.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>

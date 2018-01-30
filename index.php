@@ -13,14 +13,14 @@
 		</ul> -->
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="img/img_homescreen.jpg" alt="Aragani 1" width="1100" height="500">
+				<img src="img/img_homescreen.jpg" alt="Aragani 1" width="1920" height="500">
 			</div>
 			<div class="carousel-item">
-				<img src="img/img_homescreen.jpg" alt="Aragani 2" width="1100" height="500">
+				<img src="img/img_homescreen2.jpg" alt="Aragani 2" width="1920" height="500">
 			</div>
-			<div class="carousel-item">
+			<!-- <div class="carousel-item">
 				<img src="img/img_homescreen.jpg" alt="Aragani 3" width="1100" height="500">
-			</div>
+			</div> -->
 		</div>
 		<a class="carousel-control-prev" href="#carousel-home" data-slide="prev">
 			<span class="carousel-control-prev-icon"></span>

@@ -1,0 +1,289 @@
+/* colors */
+/* darkgrey rgba(62, 63, 61, 1) 	#3e3f3d */
+/* cream 	rgba(218, 195, 167, 1) 	#dac3a7 */
+/* orange 	rgba(236, 83, 27, 1) 	#ec531b */
+/* blue 	rgba(134, 171, 161, 1) 	#86aba1 */
+/* brown 	rgba(204, 118, 85, 1) 	#cc7655 */
+
+/* fonts */
+@font-face {
+	font-family: 'din';
+	src: url('fonts/Din.otf');
+}
+
+@font-face {
+	font-family: 'igrasans';
+	src: url('fonts/IgraSans.otf');
+}
+
+/* colors */
+.darkgrey {
+	color: #3e3f3d;
+}
+
+.cream {
+	color: #dac3a7;
+}
+
+.orange {
+	color: #ec531b;
+}
+
+.blue {
+	color: #86aba1;
+}
+
+.brown {
+	color: #cc7655;
+}
+
+body {
+	font-family: igrasans;
+}
+
+/* navbar */
+.navbar {
+	background: #fff !important;
+}
+
+.navbar-brand > img {
+	max-width: 3em;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+	color: #ec531b;
+}
+
+.navbar-light .navbar-toggler {
+	border-color: #fff;
+}
+
+.navbar-light .navbar-toggler-icon {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(236, 83, 27, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* carousel */
+.carousel-inner img {
+	width: 100%;
+	height: 100%;
+}
+
+/* cover image */
+.cover > img {
+	max-width: 100%;
+}
+
+/* content */
+.isi {
+	padding: 2em;
+}
+
+.title {
+	font-size: 1.8em;
+}
+
+.penjelasan {
+	font-size: 0.8em;
+	color: #3e3f3d;
+}
+
+.contact {
+	padding: 1em 1em;
+}
+
+.form-control {
+	border: 5px solid #ec531b;
+}
+
+.form-control:focus {
+	border-color: #86aba1;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(134, 171, 161, 0.6);
+}
+
+/* contest */
+.judul-lomba {
+	margin: auto auto 0.5em;
+}
+
+.daftar-lomba {
+	/* margin-bottom: 1em; */
+}
+
+.container {
+	position: relative;
+	width: 50%;
+}
+
+.image {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .5s ease;
+	background-color: rgba(0, 0, 0, 0.65);
+}
+
+.overlay:hover {
+	background-color: rgba(0, 0, 0, 0.25);
+}
+
+.container .overlay {
+	opacity: 1;
+}
+
+.text {
+	color: rgba(255, 255, 255, 0.85);
+	font-size: 1.2em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.pushdown {
+	margin-top: 2.5em;
+}
+
+/* footer */
+.footer-images {
+	justify-content: space-evenly !important;
+}
+
+.footer-images img {
+	max-height: 35px;
+	margin-bottom: 1em;
+}
+
+.image {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+/* modal */
+.modal-header {
+	border-bottom: none;
+}
+
+.modal-title {
+	margin-left: 1em;
+}
+
+.judul-lomba-modal {
+	margin-top: 1em;
+	font-size: 2em;
+	text-align: center;
+	color: #ec531b;
+}
+
+.modal-xl {
+	width: 95%;
+	max-width:1200px;
+}
+
+.gambar-lomba {
+	width: 100%;
+}
+
+.content-lomba ul {
+	padding-left: 1.5em;
+}
+
+/* media query laptop screen */
+@media only screen and (min-width : 768px){
+	/* navbar */
+	.navbar-brand {
+		margin-left: 3em;
+	}
+
+	.navbar-brand > img {
+		max-width: 6em;
+	}
+
+	.navbar-collapse {
+		margin-right: 7em;
+	}
+
+	.nav-link {
+		margin-left: 0.7em;
+		margin-right: 0.7em;
+	}
+
+	.judul-lomba {
+		display: none;
+	}
+
+	/* content */
+	.isi {
+		padding: 3em;
+	}
+
+	.title {
+		font-size: 2.5em;
+		margin-bottom: 1em;
+	}
+
+	.penjelasan {
+		font-size: 1em;
+	}
+
+	.contact {
+		padding: 3em 1em;
+	}
+
+	/* contest */
+	.overlay:hover {
+		background-color: rgba(0, 0, 0, 0.65);
+	}
+
+	.container .overlay {
+		opacity: 0;
+	}
+
+	.container:hover .overlay {
+		opacity: 1;
+	}
+
+	.text {
+		font-size: 3em;
+	}
+
+	/* modal */
+	.modal-title {
+		margin-left: 1em;
+	}
+
+	.judul-lomba-modal {
+		margin-top: 0;
+		text-align: left;
+	}
+
+	/* footer */
+	.footer-images {
+		justify-content: flex-end !important;
+		margin-right: 2.5em;
+	}
+
+	.footer-images img {
+		max-height: 50px;
+		margin: 1em;
+		margin-bottom: 2em;
+	}
+
+	.pushdown {
+		margin: 0;
+	}
+}		
+

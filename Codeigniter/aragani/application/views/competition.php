@@ -1,48 +1,48 @@
 <section class="competition row no-gutters">
 	<h1 class="judul-lomba orange">LOMBA</h1>
 	<div class="w-100"></div>
-	<div data-toggle="modal" data-target="#modal1" class="container col-6 col-md-4">
+	<a href="#" data-toggle="modal" data-target="#modal1" class="container col-6 col-md-4">
 		<img src="<?= base_url(); ?>assets/images/lomba/img_futsal.jpg" class="image" alt="futsal"></img>
 		<div class="overlay">
 			<div class="text">Lomba Futsal</div>
 		</div>
-	</div>
-	<div data-toggle="modal" data-target="#modal2" class="container col-6 col-md-4">
+	</a>
+	<a href="#" data-toggle="modal" data-target="#modal2" class="container col-6 col-md-4">
 		<img src="<?= base_url(); ?>assets/images/lomba/img_photography.jpg" class="image" alt="fotografi"></img>
 		<div class="overlay">
 			<div class="text">Lomba Fotografi</div>
 		</div>
-	</div>
-	<div data-toggle="modal" data-target="#modal3" class="container col-6 col-md-4">
+	</a>
+	<a href="#" data-toggle="modal" data-target="#modal3" class="container col-6 col-md-4">
 		<img src="<?= base_url(); ?>assets/images/lomba/img_dance.jpg" class="image" alt="dance"></img>
 		<div class="overlay">
 			<div class="text">Lomba Dance</div>
 		</div>
-	</div>
-	<div data-toggle="modal" data-target="#modal4" class="container col-6 col-md-3">
+	</a>
+	<a href="#" data-toggle="modal" data-target="#modal4" class="container col-6 col-md-3">
 		<img src="<?= base_url(); ?>assets/images/lomba/img_basket.jpg" class="image" alt="basket"></img>
 		<div class="overlay">
 			<div class="text">Lomba Basket</div>
 		</div>
-	</div>
-	<div data-toggle="modal" data-target="#modal5" class="container col-6 col-md-3">
+	</a>
+	<a href="#" data-toggle="modal" data-target="#modal5" class="container col-6 col-md-3">
 		<img src="<?= base_url(); ?>assets/images/lomba/img_journalistics.jpg" class="image" alt="jurnalistik"></img>
 		<div class="overlay">
 			<div class="text">Lomba Jurnalistik</div>
 		</div>
-	</div>
-	<div data-toggle="modal" data-target="#modal6" class="container col-6 col-md-3">
+	</a>
+	<a href="#" data-toggle="modal" data-target="#modal6" class="container col-6 col-md-3">
 		<img src="<?= base_url(); ?>assets/images/lomba/img_band.jpg" class="image" alt="band"></img>
 		<div class="overlay">
 			<div class="text">Lomba Band</div>
 		</div>
-	</div>
-	<div data-toggle="modal" data-target="#modal7" class="container col-12 col-md-3">
+	</a>
+	<a href="#" data-toggle="modal" data-target="#modal7" class="container col-12 col-md-3">
 		<img src="<?= base_url(); ?>assets/images/lomba/img_poster.jpg" class="image" alt="poster"></img>
 		<div class="overlay">
 			<div class="text">Lomba Poster</div>
 		</div>
-	</div>
+	</a>
 	<div class="w-100 pushdown"></div>
 </section>
 
@@ -103,7 +103,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="<?= base_url(); ?>assets/files/rarzip/futsal.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -195,7 +195,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="<?= base_url(); ?>assets/files/rarzip/foto.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -277,7 +277,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="dlc/dance.zip">Download Form Registrasi</a>
+								<a href="<?= base_url(); ?>assets/files/rarzip/dance.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -357,7 +357,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="<?= base_url(); ?>assets/files/rarzip/basket.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -437,7 +437,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="<?= base_url(); ?>assets/files/rarzip/jurnal.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -525,7 +525,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="<?= base_url(); ?>assets/files/rarzip/band.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>
@@ -605,7 +605,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Registrasi</a>
+								<a href="<?= base_url(); ?>assets/files/rarzip/design.zip">Download Form Registrasi</a>
 							</li>
 						</ul>
 						<ul>

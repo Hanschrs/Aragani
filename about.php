@@ -10,8 +10,8 @@
 			Tema yang diangkat tahun ini adalah "MAHA KARYA", yaitu singkatan dari Mahasiswa Berkarya. Memasuki masa perkuliahan dimana seorang siswa telah menjadi mahasiswa dan diharapkan dapat menggunakan talentanya untuk menciptakan suatu mahakarya yang bisa memberikan dampak.
 		</p>
 		<div class="w-100"></div>
-		<img class="col-5 col-md-2 logo-about" src="img/aragani_logo.png"></img>
-		<img class="col-5 col-md-2 logo-about" src="img/mahakarya_logo.png"></img>
+		<img class="col-6 col-md-2 logo-about" src="img/aragani_logo.png"></img>
+		<img class="col-6 col-md-2 logo-about" src="img/mahakarya_logo.png"></img>
 		<div class="w-100"></div>
 		<p class="penjelasan col-md-8 align-self-center text-center">
 			<strong>Pendahuluan</strong>

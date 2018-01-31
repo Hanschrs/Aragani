@@ -6,11 +6,11 @@
 		<h1 class="orange text-center">Hubungi Kami</h1>
 	</div>
 	<div class="col-md-7">
-		<h1>
+		<h3 class="contactIsi">
 			Line@ official account :
 			<br>
-		 	<a href="https://line.me/R/ti/p/%40aragani" class="url-hover-no-show"><strong class="orange">@aragani</strong></a>
-		 </h1>
+			<a href="https://line.me/R/ti/p/%40aragani" class="url-hover-no-show"><strong class="orange">@aragani</strong></a>
+		</h3>
 
 		<!-- lol. f this. gajadi dipake :v -->
 		<!-- <form class="form" role="form" autocomplete="off" id="formLogin" action="proses_tanya.php" method="POST">

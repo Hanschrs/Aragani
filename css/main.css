@@ -99,7 +99,7 @@ body {
 }
 
 .logo-about {
-	margin: 1.5em auto;
+	max-width: 100%;
 }
 
 .contact {
@@ -113,10 +113,6 @@ body {
 .form-control:focus {
 	border-color: #86aba1;
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(134, 171, 161, 0.6);
-}
-
-strong {
-	font-size: 1.5em;
 }
 
 /* contest */
@@ -224,6 +220,15 @@ strong {
 	text-decoration: none;
 }
 
+.contactIsi {
+	text-align: center !important;
+}
+
+.pushdown-1{
+	height: 350px;
+}
+
+
 /* media query laptop screen */
 @media only screen and (min-width : 768px){
 	/* navbar */
@@ -314,8 +319,8 @@ strong {
 		margin: 0;
 	}
 
-	.pushdown-1{
-		height: 400px;
+	.contactIsi {
+		text-align: left;
 	}
 }		
 

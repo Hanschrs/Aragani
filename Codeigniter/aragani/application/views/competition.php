@@ -98,7 +98,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : Technical Meeting
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -161,12 +161,8 @@
 								<br>
 								<table>
 									<tr>
-										<td>Lokasi</td>
-										<td>: SSC &amp; UC</td>
-									</tr>
-									<tr>
 										<td>Biaya</td>
-										<td>: Rp 65.000,- /peserta</td>
+										<td>: Rp 75.000,- /peserta</td>
 									</tr>
 								</table>
 								<br>
@@ -190,7 +186,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : Technical Meeting
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -272,7 +268,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : 14 Februari
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -352,7 +348,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : Technical Meeting
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -432,7 +428,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : 17 Februari
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -520,7 +516,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : 3 Februari
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -600,7 +596,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : 12 Februari
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>

@@ -101,7 +101,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : Technical Meeting
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -111,7 +111,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="dlc/futsal.pdf">Download Form Peraturan</a>
+								<a href="#">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -164,12 +164,8 @@
 								<br>
 								<table>
 									<tr>
-										<td>Lokasi</td>
-										<td>: SSC &amp; UC</td>
-									</tr>
-									<tr>
 										<td>Biaya</td>
-										<td>: Rp 65.000,- /peserta</td>
+										<td>: Rp 75.000,- /peserta</td>
 									</tr>
 								</table>
 								<br>
@@ -193,7 +189,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : Technical Meeting
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -203,7 +199,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="dlc/foto.pdf">Download Form Peraturan</a>
+								<a href="#">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -275,7 +271,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : 14 Februari
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -285,7 +281,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="dlc/dance.pdf">Download Form Peraturan</a>
+								<a href="#">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -355,7 +351,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : Technical Meeting
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -365,7 +361,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="dlc/basket.pdf">Download Form Peraturan</a>
+								<a href="#">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -435,7 +431,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : 17 Februari
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -445,7 +441,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="dlc/jurnal.pdf">Download Form Peraturan</a>
+								<a href="#">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -523,7 +519,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : 3 Februari
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -533,7 +529,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="dlc/band.pdf">Download Form Peraturan</a>
+								<a href="#">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -603,7 +599,7 @@
 									</tr>
 								</table>
 								<br>
-								Akhir pendaftaran : 12 Februari
+								Akhir pendaftaran : H-2 Lomba
 							</li>
 						</ul>
 						<ul>
@@ -613,7 +609,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="dlc/design.pdf">Download Form Peraturan</a>
+								<a href="#">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>

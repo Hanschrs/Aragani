@@ -30,6 +30,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 // punya Hans
 $config['base_url'] = 'http://localhost/aragani/Codeigniter/aragani/';
 
+// punya web
+// $config['base_url'] = 'http://aragani.uc.ac.id/Codeigniter/aragani/';
+
 /*
 |--------------------------------------------------------------------------
 | Index File

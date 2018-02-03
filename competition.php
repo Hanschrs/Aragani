@@ -111,7 +111,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="dlc/futsal.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -199,7 +199,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="dlc/foto.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -281,7 +281,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="dlc/dance.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -361,7 +361,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="dlc/basket.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -441,7 +441,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="dlc/jurnal.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -529,7 +529,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="dlc/band.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -609,7 +609,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="dlc/design.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>

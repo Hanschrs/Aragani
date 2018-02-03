@@ -108,7 +108,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="<?= base_url(); ?>assets/files/peraturan/futsal.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -196,7 +196,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="<?= base_url(); ?>assets/files/peraturan/foto.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -278,7 +278,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="<?= base_url(); ?>assets/files/peraturan/dance.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -358,7 +358,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="<?= base_url(); ?>assets/files/peraturan/basket.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -438,7 +438,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="<?= base_url(); ?>assets/files/peraturan/jurnal.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -526,7 +526,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="<?= base_url(); ?>assets/files/peraturan/band.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
@@ -606,7 +606,7 @@
 						</ul>
 						<ul>
 							<li>
-								<a href="#">Download Form Peraturan</a>
+								<a href="<?= base_url(); ?>assets/files/peraturan/design.pdf">Download Form Peraturan</a>
 							</li>
 						</ul>
 						<br>
